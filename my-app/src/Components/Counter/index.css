@@ -1,0 +1,33 @@
+.main{
+    height:100vh;
+    background-color: #eee;
+}
+.counter-app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:2px solid rgb(193, 10, 193);
+    height:300px;
+    width:300px;
+    margin:auto;
+    margin-left:500px;
+    margin-top:100px;
+}
+.h1{
+    font-size: 40px;
+}
+.p{
+    font-size: 50px;
+    margin:0px
+}
+.button-container{
+    display: flex;
+}
+.button{
+    color:white;
+    background-color: blueviolet;
+    width:100px;
+    height:30px;
+    margin:20px;
+}
